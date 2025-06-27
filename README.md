@@ -49,4 +49,3 @@ Click below to explore the interactive Tableau Story:
 **Delaney Rummell**  
 🎓 MSc in Sport Analytics | 📍 Lisle, IL  
 📬 delaney.rummell10@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/delaney-rummell-12b12922a)

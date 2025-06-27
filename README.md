@@ -21,7 +21,7 @@ Click below to explore the interactive Tableau Story:
 - 🦠 Pandemic Shift in Consumption:
   Spending increased significantly in essential goods including cereals and bakery products, meats and poultry, dairy, and more during 2020. 
 
-- 🍺 Alcohol & Beverages:  
+- 🍺 Beverages:  
   Categories such as beer and mineral waters/soft drinks saw spikes in spending. This was due to consumer lifestyle changes with the lockdown.
 
 - 📈 Long-Term Trends: 
